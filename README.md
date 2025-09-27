@@ -46,7 +46,7 @@
 <h3>Моя статистика codewars</h3>
 <p>&nbsp;<img align="left" src="https://www.codewars.com/users/ScorpKir/badges/large" alt="scorpkir" /></p>
 
-
+<br/>
 <h3 align="left">Мои контакты:</h3>
 <p align="left">
       <a href="https://t.me/wariazait" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/e49da3cfc5f88fce486acbaa230de6bcf8c9fda1/src/assets/icons/social/telegram/default.svg" height="30" width="40" /></a>
